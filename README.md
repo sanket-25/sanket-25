@@ -12,8 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Exploring The Race Within Me
-
 ![black-cat](https://github.com/sanket-25/sanket-25/assets/49972214/ffabf77a-233b-49c2-bf70-e9a4ff61a19d)
 
