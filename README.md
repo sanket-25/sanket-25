@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some shitty project ideas**
 
-- 👨‍💻 All of my projects are available at [https://sanket25.netlify.app/](https://sanket25.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sanket-25.github.io/portfolio.github.io](https://sanket-25.github.io/portfolio.github.io)
 
 - 💬 Ask me about **Astrophysics and Existence of God**
 
