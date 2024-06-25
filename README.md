@@ -3,15 +3,24 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **some shitty project ideas**
-
-- 👨‍💻 All of my projects are available at [https://sanket-25.github.io/portfolio.github.io](https://sanket-25.github.io/portfolio.github.io)
-
-- 💬 Ask me about **Astrophysics and Existence of God**
-
-- 📫 How to reach me **contact.sanketdhuri@gmail.com**
-
-- 📄 Know about my experiences [https://sanket-25.github.io/resume.github.io/](https://sanket-25.github.io/resume.github.io/)
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working as a <b>Software Developer in Bangalore</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://sanket-25.github.io/portfolio.github.io">https://sanket-25.github.io/portfolio.github.io</a></li>
+        <li>💬 Ask me about <b>Astrophysics and Existence of God</b></li>
+        <li>📫 How to reach me <b>contact.sanketdhuri@gmail.com</b></li>
+        <li>📄 Know about my experiences <a href="https://sanket-25.github.io/resume.github.io/">https://sanket-25.github.io/resume.github.io/</a></li>
+      </ul>
+    </td>
+    <td>
+      <!-- Add your image here -->
+      <img src="[https://via.placeholder.com/150" alt="Your Image](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)" width="150" height="150"/>
+      <!-- Replace the src with your image URL, and adjust width/height as needed -->
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source
