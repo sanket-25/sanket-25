@@ -1,14 +1,12 @@
-<h1 align="center">Heyy 👋, I'm Sanket</h1>
-<h3 align="center">I love coding and cats</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h1 align="center">Heyyy, I'm Sanket</h1>
+<h3 align="center">I love Coding and Cats</h3>
 
 <table style="border: none;">
   <tr>
     <td style="vertical-align: top; border: none;">
       <ul>
         <li>🔭 I’m currently working as a <b>Software Developer in Bangalore</b></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://sanket25.vercel.app">https://sanket-25.github.io/portfolio.github.io</a></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://sanket25.vercel.app">https://sanket25.vercel.app</a></li>
         <li>💬 Ask me about <b>DSA and Astrophysics</b></li>
         <li>📫 How to reach me <b>contact.sanketdhuri@gmail.com</b></li>
         <li>📄 Know about my experiences <a href="https://sanket-25.github.io/resume.github.io/">https://sanket-25.github.io/resume.github.io/</a></li>
