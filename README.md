@@ -8,16 +8,14 @@
     <td style="vertical-align: top; border: none;">
       <ul>
         <li>🔭 I’m currently working as a <b>Software Developer in Bangalore</b></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://sanket-25.github.io/portfolio.github.io">https://sanket-25.github.io/portfolio.github.io</a></li>
-        <li>💬 Ask me about <b>Astrophysics and Existence of God</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://sanket25.vercel.app">https://sanket-25.github.io/portfolio.github.io</a></li>
+        <li>💬 Ask me about <b>DSA and Astrophysics</b></li>
         <li>📫 How to reach me <b>contact.sanketdhuri@gmail.com</b></li>
         <li>📄 Know about my experiences <a href="https://sanket-25.github.io/resume.github.io/">https://sanket-25.github.io/resume.github.io/</a></li>
       </ul>
     </td>
     <td style="vertical-align: top; border: none;">
-      <!-- Add your image here -->
-      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150"/>
-      <!-- Replace the src with your image URL, and adjust width/height as needed -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="250"/>
     </td>
   </tr>
 </table>
