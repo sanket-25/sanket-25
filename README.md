@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="vertical-align: top; border: none;">
       <ul>
         <li>🔭 I’m currently working as a <b>Software Developer in Bangalore</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://sanket-25.github.io/portfolio.github.io">https://sanket-25.github.io/portfolio.github.io</a></li>
@@ -14,7 +14,7 @@
         <li>📄 Know about my experiences <a href="https://sanket-25.github.io/resume.github.io/">https://sanket-25.github.io/resume.github.io/</a></li>
       </ul>
     </td>
-    <td>
+    <td style="vertical-align: top; border: none;">
       <!-- Add your image here -->
       <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150"/>
       <!-- Replace the src with your image URL, and adjust width/height as needed -->
