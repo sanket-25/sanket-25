@@ -16,7 +16,7 @@
     </td>
     <td>
       <!-- Add your image here -->
-      <img src="[https://via.placeholder.com/150" alt="Your Image](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)" width="150" height="150"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150"/>
       <!-- Replace the src with your image URL, and adjust width/height as needed -->
     </td>
   </tr>
