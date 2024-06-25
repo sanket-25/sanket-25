@@ -13,13 +13,8 @@
 
 - 📄 Know about my experiences [https://sanket-25.github.io/resume.github.io/](https://sanket-25.github.io/resume.github.io/)
 
-#### 26 . [hits](https://github.com/silentsoft/hits)
+<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkzMDI0MzYsIm5iZiI6MTcxOTMwMjEzNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI1VDA3NTUzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1NGNmNDA2NTRkZjY5YWM5M2FkYzY4MWQ2NDcwZTAwODFiOTU5ZmU1Nzc0NzhmMDFhMDNkODdmMTYyNzc1MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.C8OahmLKN_V8OTvbI7jEfT9wO1zZT--V8Mp_0x98RWc">
 
-📈 Hit Counter for Your GitHub or Any Kind of Websites You Want. 
-
-📍 For example :
-
-[![Hits](https://hits.sh/github.com/rzashakeri/beautify-github-profile.svg)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
