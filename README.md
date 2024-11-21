@@ -9,7 +9,7 @@
         <li>👨‍💻 All of my projects are available at <a href="https://sanket25.me/">https://sanket25.me/</a></li>
         <li>💬 Ask me about <b>DSA and Astrophysics</b></li>
         <li>📫 How to reach me <b>contact.sanketdhuri@gmail.com</b></li>
-        <li>📄 Know about my experiences <a href="https://sanket-25.github.io/resume.github.io/">https://sanket-25.github.io/resume.github.io/</a></li>
+        <li>📄 Know about my experiences <a href="https://sanket-25.github.io/cdn/Sanket-CV.pdf">https://sanket-25.github.io/cdn/Sanket-CV.pdf</a></li>
       </ul>
     </td>
     <td style="vertical-align: top; border: none;">
