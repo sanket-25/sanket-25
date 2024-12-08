@@ -5,7 +5,7 @@
   <tr>
     <td style="vertical-align: top; border: none;">
       <ul>
-        <li>🔭 I’m currently working as a <b>Software Developer in Bangalore</b></li>
+        <li>🔭 I’m currently building <b>VYRA | AI based Training Analysis and Social Networking App for Athletes</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://sanket25.me/">https://sanket25.me/</a></li>
         <li>💬 Ask me about <b>DSA and Astrophysics</b></li>
         <li>📫 How to reach me <b>contact.sanketdhuri@gmail.com</b></li>
