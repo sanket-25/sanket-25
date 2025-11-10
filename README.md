@@ -6,7 +6,7 @@
     <td style="vertical-align: top; border: none;">
       <ul>
         <li>🔭 I'm Currently building <b>VYRA | AI based Training Analysis and Social Networking App for Athletes at <a href="https://thevyra.com">https://thevyra.com/</a></b></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://sanket25.me/">https://sanket25.me/</a></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://sanket.run/">https://sanket.run/</a></li>
         <li>💬 Ask me about <b>DSA and Astrophysics</b></li>
         <li>📫 How to reach me <b>contact.sanketdhuri@gmail.com</b></li>
         <li>📄 Know about my experiences <a href="https://sanket-25.github.io/cdn/Sanket-CV.pdf">https://sanket-25.github.io/cdn/Sanket-CV.pdf</a></li>
