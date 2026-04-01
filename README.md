@@ -5,7 +5,7 @@
   <tr>
     <td style="vertical-align: top; border: none;">
       <ul>
-        <li>🔭 I'm Currently building <b>VYRA | AI based Training Analysis and Social Networking App for Athletes at <a href="https://thevyra.com">https://thevyra.com/</a></b></li>
+        <li>🔭 I'm Currently building <b>VYRA | AI based Training Analysis and Social Networking App for Athletes at <a href="https://thevyra.in">https://thevyra.in/</a></b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://sanket.run/">https://sanket.run/</a></li>
         <li>💬 Ask me about <b>DSA and Astrophysics</b></li>
         <li>📫 How to reach me <b>contact.sanketdhuri@gmail.com</b></li>
@@ -56,3 +56,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-25&show_icons=true&locale=en" alt="sanket-25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-25&" alt="sanket-25" /></p>
+
+## Sanket Dhuri
+
+Full Stack Developer | AI ML Enthusiast | Athlete
+
+🔗 https://sanket.run/about-sanket-dhuri
